@@ -1,0 +1,23 @@
+.сlass_left { 
+  float: left; 
+  width: 410px;
+  border: 1px solid grey;
+  padding: 6px;
+  padding-right: 15px;
+  }
+
+  .сlass_right { 
+    color: green;
+    float: left; 
+    width: 410px;
+    border: 1px solid grey;
+    padding: 6px;
+    padding-right: 15px;
+    }
+ 
+    .сlass_under {       
+      width: 410px;
+      border: 1px solid grey;
+      padding: 6px;
+      padding-right: 15px;
+      }    
